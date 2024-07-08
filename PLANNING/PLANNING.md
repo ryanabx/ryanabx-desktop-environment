@@ -34,6 +34,12 @@ What's in the shell?
 * OSDs
 * Launchers
 
+<https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/28#0f7d62083cb06bea09093cc4019184cc26dda1da>
+
+<https://wayland.app/protocols/wlr-layer-shell-unstable-v1>
+
+
+
 #### Settings application
 
 * Heavily related to the shell?
