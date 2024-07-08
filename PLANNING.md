@@ -88,3 +88,7 @@ What's in the shell?
     * This minimizes the number of components to maintain in a distro
 * Rust in all the first-party components
   * Provides additional safety
+* Multiplatform compatible
+  * Prioritize components that port well over to Windows and MacOS, etc.
+  * Rust definitely helps with this but there's a lot of linux-specific software out there
+  * Don't compromise on the flatpak and rust parts for this goal
